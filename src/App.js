@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <div>
-      <h1 className="text-center text-3xl font-medium mt-2 py-4">
+      <h1 className="text-center text-2xl font-medium mt-2 py-4">
         12 -Redux store
       </h1>
       ;
